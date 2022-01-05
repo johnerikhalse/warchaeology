@@ -10,3 +10,6 @@ Usage information is available with the help command:
     warc help
 
 This information can also be found [here](https://nlnwa.github.io/warchaeology/cmd/warc.html)
+
+[{{ site.github.latest_release.name }}]({{ site.github.latest_release }})
+[{{ site.github.repository_url }}]({{ site.github.repository_url }})
