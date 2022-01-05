@@ -31,5 +31,6 @@ source &lt;(warc completion zsh)
 ```
 
 [{{ site.github.latest_release.name }}]({{ site.github.latest_release }})
+
 [{{ site.github.repository_url }}]({{ site.github.repository_url }})
 
